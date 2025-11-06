@@ -1,0 +1,45 @@
+[submodule "footprints/acheron_Connectors.pretty"]
+	path = footprints/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty
+[submodule "footprints/acheron_MXH_stressreliefs_gateron.pretty"]
+	path = footprints/acheron_MXH_stressreliefs_gateron.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_stressreliefs_gateron.pretty
+[submodule "footprints/acheron_Hardware.pretty"]
+	path = footprints/acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty
+[submodule "footprints/acheron_Components.pretty"]
+	path = footprints/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty
+[submodule "footprints/acheron_EC.pretty"]
+	path = footprints/acheron_EC.pretty
+	url = https://github.com/AcheronProject/acheron_EC.pretty
+[submodule "footprints/acheron_MX_soldermask.pretty"]
+	path = footprints/acheron_MX_soldermask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty
+[submodule "footprints/acheron_MXA.pretty"]
+	path = footprints/acheron_MXA.pretty
+	url = https://github.com/AcheronProject/acheron_MXA.pretty
+[submodule "footprints/acheron_MXH_wafflepads.pretty"]
+	path = footprints/acheron_MXH_wafflepads.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_wafflepads.pretty
+[submodule "footprints/acheron_MX.pretty"]
+	path = footprints/acheron_MX.pretty
+	url = https://github.com/AcheronProject/acheron_MX.pretty
+[submodule "footprints/acheron_MXH.pretty"]
+	path = footprints/acheron_MXH.pretty
+	url = https://github.com/AcheronProject/acheron_MXH.pretty
+[submodule "footprints/acheron_MXO.pretty"]
+	path = footprints/acheron_MXO.pretty
+	url = https://github.com/AcheronProject/acheron_MXO.pretty
+[submodule "footprints/acheron_MXH_metalrings.pretty"]
+	path = footprints/acheron_MXH_metalrings.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_metalrings.pretty
+[submodule "footprints/acheron_Graphics.pretty"]
+	path = footprints/acheron_Graphics.pretty
+	url = https://github.com/AcheronProject/acheron_Graphics.pretty
+[submodule "footprints/acheron_MX_PlateSlots.pretty"]
+	path = footprints/acheron_MX_PlateSlots.pretty
+	url = https://github.com/AcheronProject/acheron_MX_PlateSlots.pretty
+[submodule "footprints/acheron_MountingHoles.pretty"]
+	path = footprints/acheron_MountingHoles.pretty
+	url = https://github.com/AcheronProject/acheron_MountingHoles.pretty
